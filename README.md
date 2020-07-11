@@ -38,6 +38,8 @@ After filling all the details it will ask for the email verification "Privacy ma
 
 Now you will see your Name and Profile at top right corner. Click on the your name and from list click on Apps. In the next window click on create> You will see that it is asking for some details . For now we will fill the details only (required details) do not fill anthing where (required)is not written . In the website url section and callback url section  fillcopy this and paste https://consistant.netlify.app/ [Visit Website] (https://consistant.netlify.app/) this web is developed by me to stay consistant whole day. Tick mark the Enable signin with twitter, Fill the details and click on create.
 
+![image] ()
+
 ## Step 5
  
  You will see a window like below. Click onKeys and tokens . You will see API KEY,API SECREAT key and for access and tokens Click on generate .A pop up will appear copy the access token and access token secreat becoz if u back it will not show to u. WE will use these token in python Script to create a bot.
