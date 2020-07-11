@@ -51,3 +51,26 @@ Now you will see your Name and Profile at top right corner. Click on the your na
 ![image](https://github.com/Rajatkhatri7/twitterBot/blob/master/assets/img4.png)
 
 ![image](https://github.com/Rajatkhatri7/twitterBot/blob/master/assets/img5.png)
+
+## Step 6 Installing Python and tweepy
+
+Now to run the bot we write a python script. For this go to ,for windows user [Python Website](https://www.python.org/downloads/windows/) , and for linux python is already instlled in your system . If u want specifict version type
+`apt-pip install python3`.
+
+Now we will install [Tweepy](https://www.tweepy.org/) which will help in automation. 
+Windows user go to command prompt and type `pip install tweepy`
+Linux user open terminal and type `pip3 install tweepy`
+
+## step 7 Final Destination
+
+
+Now copy the above [retweet.py] file open it in any text editor and paste your api key and other credentials in the file . and replace the query with whatever keyword u want, Then save this file.
+
+Now run this file by command promt or by terminal `python3 retweet.py`
+
+Volia!! We have created the Bot to retweet the tweets with the given hashtag in query.
+
+To Automate more like auto like and follow read the docs of [Tweepy](https://www.tweepy.org/).
+
+
+Fork this repository if you want to contriute to this and give a star if you this. :)
